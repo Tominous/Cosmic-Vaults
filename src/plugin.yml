@@ -1,0 +1,10 @@
+name: CosmicVaults 
+main: com.shadebyte.cosmicvault.Core
+version: 1.4
+author: TheCrystalStar
+description: A player storage plugin just like cosmic pvp's
+
+commands: 
+  pv: 
+    aliases: [pvaults, playervaults, vaults, vault]
+    description: Main command for the plugin.
